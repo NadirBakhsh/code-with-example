@@ -1,6 +1,7 @@
 {
-  "name": "next-code-examples",
-  "version": "0.1.0",
+  "name": "nextjs-app-router",
+  "version": "1.0.0",
+  "description": "A Next.js 13 project for learning and Boiler Plate of code",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,6 +9,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "keywords": ["Next.js", "learning", "tutorial", "Boiler Plate Code", "Nextjs Code Examples", "Readme file"],
+  "author": "Nadir Bakhsh",
+  "license": "MIT",
   "dependencies": {
     "autoprefixer": "10.4.16",
     "eslint": "8.49.0",
@@ -17,5 +21,6 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.3"
-  }
+  },
+  "devDependencies": {}
 }
